@@ -1,2 +1,1 @@
-# python-assignment
-# Crystal's python assignment
+# Crystal-python-assignment
